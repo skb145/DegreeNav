@@ -1,0 +1,147 @@
+Pre Buisness Classes:
+Calculus 1,01:640:135,PB,N/A
+Intro to Micro,01:220:102,PB/SCL,N/A 
+Intro to Macro,01:220:103,PB,N/A 
+Stat for Buisness,01:960:285,PB,N/A 
+Financial Accounting,33:010:272,PB,N/A
+Comp Apps,01:198:170,PB,N/A
+
+Buisness Core:
+Managerial Accounting,33:010:275,BC,33:010:272
+Buisness Law,33:140:320,BC,N/A
+Buisness Ethics,33:522:334,BC,N/A
+Intro to Management,33:620:301,BC,N/A
+Management Skills,33:620:302,BC,N/A
+Buisness Forum,33:011:300,BC,N/A
+B Pol,33:620:492,BC,N/A
+Management Info Sys,33:136:370,BC,N/A 
+Accounting Info Sys,33:010:458,BC,33:010:272
+Stat Methods,33:136:385,BC,01:960:285
+Financial Managment,33:390:300,BC,N/A
+Financial Managment for Finance,33:390:310,BC,N/A
+Ops Management,33:136:386,BC,N/A
+Intro to Marketing,33:630:301,BC,N/A 
+Intro to Supply Chain,33:799:301,BC,N/A
+
+Finance Major:
+Corporate Finance,33:390:400,FN/FNC,33:390:310
+Investment Analysis,33:390:380,FN/FNC,33:390:310
+Derivatives,33:390:420,FN/FNC,33:390:380
+Advanced Corporate Finance,33:390:440,FN,33:390:400
+Analysis of Financial Statements,33:010:472,FN,33:390:400|33:010:326
+Asset Pricing and Portfolio Analysis,33:390:410,FN,33:390:380
+Corporate Risk Management,33:390:460,FN,33:390:420
+Ethics in Finance,33:390:331,FN,33:390:310
+Financial Analysis Planning & Forecasting,33:390:450,FN,33:390:310
+Fixed Income,33:390:490,FN,33:390:380
+Global Capital Markets,33:390:320,FN/GB,33:390:310
+Indexing and ETFs,33:390:415,FN,33:136:385==33:390:380
+International Financial Management,33:390:375,FN/GB,33:390:380
+Intermediate Accounting I,33:010:325,FN,33:010:272
+Investment Banking Analysis,33:390:385,FN,33:390:400
+Pension Fund Investment & Management,33:390:465,FN,33:390:310
+Real Estate Finance & Mortgage Backed Securities,33:390:435,FN,33:390:310
+Research in Finance,33:390:480,FN,33:390:310
+Treasury Management,33:390:430,FN,33:390:310
+
+BAIT Major:
+Foundations of Business Programming,33:136:388,BAIT/MIS,N/A
+Buisness Data Management,33:136:470,BAIT/MIS,33:136:370/33:010:458++33:136:388
+Business Decision Analytics under Uncertainty,33:136:400,BAIT/BSA,33:136:386
+Time Series Modeling,33:136:485,BAIT/BSA,33:136:385
+Data Mining for Business Intelligence,33:136:494,BAIT/BSA/MIS,N/A
+Investment Modeling with R,33:136:450,BAIT/BSA/MIS,33:136:370|33:010:458
+Information System Security,33:136:471,BAIT/MIS,33:136:370|33:010:458  
+Enterprise Architecture,33:136:465,BAIT/MIS,33:136:370/33:010:458++33:136:388
+Optimization Modeling,33:136:486,BAIT/BSA,33:136:386
+Large Scale Business Data Analysis,33:136:487,BAIT/BSA,33:136:370|33:010:458
+Risk Modeling,33:136:405,BAIT/BSA,33:136:386
+Relational Database and Web Applications,33:136:440,BAIT,33:136:370|33:010:458
+Introduction to ERP,33:136:455,BAIT,33:136:370|33:010:458
+
+Accounting Major:
+Intermediate Accounting I,33:010:325,ACT,33:010:272
+Intermediate Accounting II,33:010:326,ACT,33:010:325
+Cost Accounting,33:010:451,ACT,33:010:275
+Concepts of Auditing,33:010:415,ACT,33:010:325
+Income Tax Accounting,33:010:421,ACT,33:010:325
+Advanced Accounting,33:010:401,ACT,33:010:326
+Audit Analytics,33:010:416,ACT,33:010:415
+Topics in Income Taxation,33:010:422,ACT,33:010:421
+
+Supply Chain Major:
+Global Procurement and Sourcing Strategies,33:799:305,SCN/GB,33:799:301
+Business Logistics and Transportation,33:799:330,SCN,33:799:301
+Demand Planning and Fulfillment,33:799:310,SCN,33:799:301
+Intro to Project Management,33:799:380,SCN,33:799:301
+Supply Chain Internship,33:799:493,SCN,N/A
+Supply Chain Co-Op,33:799:421,SCNN,N/A
+Supply Chain Risk and Disruption Management,33:799:430,SCN,33:799:305|33:799:330
+Supply Chain Environmental Management,33:799:440,SCN,33:799:301
+Introduction to Six Sigma and Lean Manufacturing,33:799:460,SCN,33:799:301
+Service Management,33:799:410,SCN,33:799:301
+Independent Studies in Supply Chain Management,33:799:498,SCN,33:799:301
+Fundamentals of Supply Chain Management with SAP,33:799:450,SCN,33:799:301
+Business Intelligence for Supply Chain and Marketing,33:799:470,SCN,33:799:301
+Supply Chain Finance,33:799:491,SCN,33:799:301
+Supply Chain Analytics Essentials,33:799:475,SCN,33:799:301
+Business to Business Marketing,33:630:370,SCN,33:630:301
+Negotiations,33:620:350,SCN,33:620:301
+New Product Planning,33:630:369,SCN,33:630:301
+Retail Marketing,33:630:368,SCN,33:630:301
+Marketing Research,33:630:385,SCN,33:136:385|33:630:301
+Sales Management,33:630:401,SCN,33:630:301
+
+Marketing Major:
+Marketing Research,33:630:385,MAR,33:136:385|33:630:301
+Consumer Behavior,33:630:374,MAR,33:630:301
+Marketing Strategy and Decision Making,33:630:452,MAR,33:630:385
+Introduction to Advertising,33:630:363,MAR,33:630:301
+Brand Management,33:630:498,MAR,33:630:301
+Business to Business Marketing,33:630:370,MAR/PSL,33:630:301
+Digital Marketing,33:630:497,MAR,33:630:301
+Independent Study in Marketing,33:630:487,MAR,33:630:301
+International Marketing,33:630:371,MAR/GB,33:630:301
+Advertising Strategy,33:630:482,MAR,33:630:363
+Marketing Analytics,33:630:489,MAR,33:630:385
+Marketing and Society,33:630:428,MAR,33:630:301
+Marketing Consulting for Small Business,33:630:499,MAR,33:630:301
+New Product Planning,33:630:369,MAR/PSL,33:630:301
+Retail Marketing,33:630:368,MAR/PSL,33:630:301
+Sales Management,33:630:401,MAR/PSL,33:630:301
+Services Marketing,33:630:372,MAR,33:630:301
+AI in Marketing,33:630:488,MAR,33:630:301
+Social Media & Mobile Marketing,33:630:480,MAR,33:630:301|33:136:385
+Professional Selling,33:630:485,MAR/PSL,33:630:301
+
+Management Major:
+International Business,33:620:369,LM/GB,33:620:301
+Executive Leadership,33:620:410,LM/GB/LS,33:620:302
+Effective Leadership Communications,33:620:362,LM/LS,33:620:302
+Negotiations,33:620:350,LM/GB/PSL/LS,33:620:301
+Cross Cultural Management,33:620:320,LM/GB/LS,33:620:301
+Diversity and Inclusion in Management and Organizations,33:620:370,LM/GB/LS,33:620:301
+Team Building and Group Processes,33:620:430,LM/LS,33:620:301
+Women Leading in Business,33:620:330,LM,33:620:301
+Managing Technological Innovation,33:620:355,LM,33:620:301
+Management of Human Resources,33:620:365,LM,N/A
+Global Management & Strategy,33:620:402,LM/GB,33:620:301
+Management Consulting,33:620:425,LM,33:620:301
+International Entrepreneurship,33:620:475,LM/GB,33:620:301
+Doing Business In Emerging Markets,33:620:479,LM/GB,N/A
+Special Topics in the Music Industry,33:620:486,LM,N/A 
+Special Topics in Sports Business,33:620:493,LM,N/A	 
+Independent Management Projects,33:620:498,LM,33:620:301
+Introduction to Entrepreneurship,33:382:302,LM,N/A	 
+Managing Growing Ventures,33:382:303,LM,33:382:302
+Social Entrepreneurship,33:382:310,LM,N/A	 
+Creativity and Innovation and Entrepreneurship,33:382:340,LM,N/A
+Urban Entrepreneurship and Economic Development,33:382:342,LM,N/A
+Technology Ventures,33:382:360,LM,N/A
+
+Real Estate Concentration
+Real Estate Law,33:851:350,RS,N/A
+Commercial Debt Markets,33:851:470,RS,N/A
+Development,33:851:432,RS,N/A
+Real Estate Finance and Mortgage Backed Securities,33:390:435,RS,N/A
+Essentials of Real Estate Finance,33:851:380,RS,N/A
